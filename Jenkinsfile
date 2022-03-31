@@ -4,7 +4,7 @@ pipeline {
     stages{
 
 
-        stage("build"){
+        stage("Build"){
             steps{
                 echo 'Build Step'
             }
